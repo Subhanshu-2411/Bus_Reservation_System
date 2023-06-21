@@ -1,3 +1,5 @@
+import '../utils/constants.dart';
+
 class ResponseModel {
     ResponseStatus responseStatus;
     int statusCode;
